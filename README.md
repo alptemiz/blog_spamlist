@@ -6,6 +6,9 @@ Alp Temiz
 **Published:**
 11.11.2024 - 14:51 - GMT+1
 
+**Updated:**
+22.01.2025 - 09:10 - GMT+1    # Updated spamlist with 323 domains
+
 ## Are You a Rheumatologist? Got Invited to Present on Nanoparticles in Japan?
 If you’ve been in the medical research field long enough, you’ve probably gotten that email. You know the one: “Congratulations! We’re thrilled to invite you to present at the 10th Annual Nanoparticles in Chemistry Symposium in Tokyo!” Now, you’re a rheumatologist whose work has nothing to do with nanoparticles or chemistry. But hey, Tokyo sounds nice! Should you go?
 
@@ -31,24 +34,37 @@ I’ve curated a personal domain blacklist of the worst offenders. Copy-pasting 
 
 Happy blocking!
 
+    2025worldgeneconvention.com
     215825094.mailchimpapp.com
+    academic-pub.net
+    academicstud.org
     acquaintpublicationsgroup.live
     advsurgsci.org
+    aimizone.com
+    ajobb.net
     analytical2025-chemistry.com
     analytical-chemistry2025.com
     analytical-symposium2024.com
     analytix-congress2025.com
+    ancarep.com
     annalsofcasereports.org
+    annaslsofclinicalcasereports.com
     anncaserepimages.info
+    anncasereprts.info
     anncrmijurnl.info
     artpublication.org
     asjsms.com
+    auctoresopenacess.com
+    auctoresopenacess.org
     austinmedresearch.com
+    author.email.elsevier.com
     authpubattrib.info
     bax1.online
     bigmarker.com
     bilpublishing.net
     biomedgrid.org
+    biomedgrid-el.org
+    biomedgridresearch.com
     biomedgridresearch.org
     biomed-res.com
     biomed-res.org
@@ -59,62 +75,95 @@ Happy blocking!
     bpic-expo2024.com
     cancercases.org
     cardiologyauctoresonline.com
+    casereportspapers.org
+    casesclinicaltrials.org
     casesportal.online
     casetrials.org
     catalysis-congress.com
     catalysis-symposium2025.com
+    cfprelieve.com
+    cfp-support.org
+    chmcf.com
     cjpu.org
     clevermatrix.org
+    clincasereports.org
     clinicalmedic.com
     clinicalnetworks.org
     clinicalpapers.org
+    clinicsearchcardiovascular.com
+    clinimedpharma.com
+    clinmedfoundation.com
     clinresearchstudies.org
     conferenceinvites.org
     conferenceprofspeakers.com
     conferencesinsight.org
+    conferencesmailer.com
     conferencestalkglobal.org
+    conference-wgc.com
     confshare.org
+    connect2researchers.org
+    connect-researchers.com
     crimsonpublisher.com
+    crosrefj.org
     cyagenbiosci.com
     datadiscoverhub.biz
     datadiscoverhub.net
     dataexplorerhub.net
+    dataexplorerhub.org
     dataexplorerhubs.biz
+    diabetes-congress2025.com
     directivepubcations.com
     directivepubcations.org
+    directivepubcltions.com
     directivepubcltions.org
     directivepublication.org
+    directivepublications.info
     directivpublications.com
     directvepubctions.com
     directvepubctions.org
+    eclinicalpapers.info
     eclinicalsci.com
     eclinmed.com
     editorialboard10@gmail.com
     editorialboard37@gmail.com
+    editorialboard38@gmail.com
     editorialboardb24@gmail.com
+    editormegajournal@gmail.com
     eebioj.org
+    email.zoominformation.com
     endocrinologyauctoresonline.com
     eurosasiaconferences.com
     explorecasespub.com
     fjopz.com
     food-congress.com
+    food-congress2025.com
     fortuneloa.com
+    fortunesji.com
+    fortusci.com
     gblscientificguild.org
     gcke-congress.top
+    gene-committee.com
     globalconferencemeet.com
     globalindexing.net
+    globalscientificmeetings.com
     globalscientificmeetings.net
     globalscientificmeetings.org
     gloriamartinremedy6@gmail.com
     gresearchhealth.com
     gsb2025-scitechcongress.com
     gsgforum.com
+    highscopepaper.com
+    hkconferences.online
     hrpublicationslv.com
     hspcorporation.net
     hspcprocess.net
+    iconfcms.org
+    icphams.org
+    iddst-congress2025.com
     ijcicr.org
     ijcmcasereports-us.info
     ijcmcasestudy-io.info
+    ijeboj.org
     ijiset.com
     ijowcmc.com
     ijseas.com
@@ -122,39 +171,55 @@ Happy blocking!
     impactnavigator.biz
     indexedjournals.co
     indexscript.org
+    infectiousdiseasesconferences.org
     info.wiley.com
     inovineconference.com
+    intjoee.org
+    intjssn.org
     investigatorspace.com
+    irispublisher.com
     irispublishers.org
+    irisscientificgroup.org
     jartificialintelligence.info
+    jbiomedresearch.org
     jbiomedsci.net
     jbresonline.com
     jcmiedl.com
     jcmimagescasereports.com
     jjgahhep.com
     jjgastroenterology.info
+    jmedicalreviews.org
     joddmc.net
     joeducation.net
     joindeepc.com
     jopsci.org
+    journalauthors.net
     journalssurgery.info
     journal-submission.com
+    joursubmit.org
     j-scimedcentral.us
     jscimedpro.com
     jscimedsubmissions.com
     jsmclinics.com
+    jsmscience.com
     jsmsubmission.com
     jsmsubmissions.org
     juniperpublications.org
     juniperpublishers.co
     lambdaconferences.org
+    landmark01.online
     literaryresearch.org
+    lupinepublisher.com
     mailer.openpubsphere.com
     mailer.opensciencejournals.net
     mailguild.info
+    manusinvites.org
     mcjrnlsschlrsd.info
     medcdmo.com
+    med-conference.com
+    meddocsoajournals.info
     meddocsoajurnalss.org
+    medgastorcasec.com
     medicalclinicalcasestudyreports.org
     medicineauctores.com
     medicinejournalshsoa.org
@@ -167,28 +232,44 @@ Happy blocking!
     meetingsnews.com
     meghaz-meetings.org
     nissipetricia.reviewprocess@gmail.com
+    oamedpub.com
+    oamedpubli.com
+    oncologymediresonline.com
+    oncopapers.org
+    onlinemypaper.org
+    onlineseminar.biz
     openimpactforges.net
     openpubspheres.net
     openpubspheres.org
     opulentmeetings.org
     peersciences.com
     pepcon2024.com
+    petrolse.org
+    pharmedicaclinicalpapers.com
     polscientific.com
     pol-scientific.com
+    polscientific.net
     precisionglobalcon.org
     precisionglobalconferences.org
+    precisionglobalmeetings.org
     prowebinarplaner.com
     przevents.org
     przforum.org
+    ptechzoa.com
     ptechzoa.net
     ptechzoa.org
+    ptzopen.org
     ptzscience.org
     pubintellects.com
     pubintellects.net
     pubknowledgehub.biz
     pubknowledgehubs.com
+    publishcasereports.org
+    pubmedj.org
     pulsusconferencs.com
+    quantumres.org
     rachelwalker32100@gmail.com
+    rareandspecial.com
     resartmetastand.info
     rescollabhub.com
     resdatacite.info
@@ -198,6 +279,7 @@ Happy blocking!
     resdataharvest.org
     resdatamethods.info
     resdataplus.org
+    research-art.com
     researcher102.com
     researchers-forum.com
     researchersmeet.com
@@ -209,24 +291,39 @@ Happy blocking!
     researchsynergize.biz
     researchvanguards.biz
     researchwaves.net
+    researinvites.com
     rhadconference.org
+    rmdykpjournal.com
     rowpapers.com
     salientjourhub.com
     scholarlinkage.net
+    scholarlymed.com
     scholarlyopenaccessjournals.org
+    scholsupport.com
     sciarticles.biz
+    scicasespub.com
     scichemj.org
+    science-bg.net
+    sciencetificobservations.org
     sciensl.com
+    scientificres.org
     scientificresearch.uk
     scijour.info
     scijournalmedncfp.com
     scimedarticles.com
     scimedjrnlarchivehub.com
+    sciresj.com
+    sciresoaresearchtext.com
+    scitecharchive.com
+    scsgatherings.org
     sin-chn.net
     smjournalpublications.com
     smsubmissions.com
+    speakers-connect.org
     speakersgathering.com
     stemjournal.info
+    submission.gynecology04@gmail.com
+    submissionrequest.com
     submitmanu.com
     submitopen.org
     submitpaper.info
@@ -234,17 +331,29 @@ Happy blocking!
     surgicalcase.info
     techsummit25@gmail.com
     theconferencemail.org
+    thelongdomconferences.com
+    thespeakercouncil.com
     thetsgcongress.com
+    thetsgsymposium.org
+    timeshighereducationsurvey.com
     tsgcongress.org
     ubigene.cn
     ubigene.tech
     unileon.es
     unitedmeetings.co.uk
+    usp-pl-pub.net
     virtualevent.biz
     vyyoma.com
+    wbic2024.com
+    wbic-conference2025.com
     wbickr-conference2024.com
     wcdd-symposium.com
     wcdwce2025.com
     wcfn2024conference.com
     wcfn-symposium2025.com
+    webinarregistration.biz
+    webinar-wave.com
+    world-wcfncongress2025.com
+    world-wgccongress2024.com
     yourcharter.ru
+    zurnoplus.com

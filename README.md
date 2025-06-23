@@ -8,6 +8,7 @@ Alp Temiz
 
 **Updated:**
 22.01.2025 - 09:10 - GMT+1    # Updated spamlist with 323 domains
+23.06.2025 - 10:43 - GMT+1    # Updated spamlist with 722 domains
 
 ## Are You a Rheumatologist? Got Invited to Present on Nanoparticles in Japan?
 If you’ve been in the medical research field long enough, you’ve probably gotten that email. You know the one: “Congratulations! We’re thrilled to invite you to present at the 10th Annual Nanoparticles in Chemistry Symposium in Tokyo!” Now, you’re a rheumatologist whose work has nothing to do with nanoparticles or chemistry. But hey, Tokyo sounds nice! Should you go?
@@ -33,8 +34,6 @@ One thing that does help? Blocking entire domains, not just single emails. Sure,
 I’ve curated a personal domain blacklist of the worst offenders. Copy-pasting this list into your blocklist might save you a lot of frustration. Let’s join forces! If you send me the domains cluttering your inbox, I’ll happily add them to my list. Maybe one day, we’ll have a comprehensive “Spam Block Bible” for all researchers who just want to work in peace.
 
 Happy blocking!
-
-722 entries:
 
     2025worldgeneconvention.com
     215825094.mailchimpapp.com

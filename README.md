@@ -8,7 +8,9 @@ Alp Temiz
 
 **Updated:**
 22.01.2025 - 09:10 - GMT+1    # Updated spamlist with 323 domains
-23.06.2025 - 10:43 - GMT+1    # Updated spamlist with 722 domains
+
+**Updated:**
+23.06.2025 - 10:45 - GMT+1    # Updated spamlist with 722 domains
 
 ## Are You a Rheumatologist? Got Invited to Present on Nanoparticles in Japan?
 If you’ve been in the medical research field long enough, you’ve probably gotten that email. You know the one: “Congratulations! We’re thrilled to invite you to present at the 10th Annual Nanoparticles in Chemistry Symposium in Tokyo!” Now, you’re a rheumatologist whose work has nothing to do with nanoparticles or chemistry. But hey, Tokyo sounds nice! Should you go?

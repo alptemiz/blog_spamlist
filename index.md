@@ -42,11 +42,11 @@ Happy blocking!
 
 ### Public comments
 You can leave a public comment here:  
-👉 https://github.com/alptemiz/blog_spamlist/issues/new
+https://github.com/alptemiz/blog_spamlist/issues/new
 
 ### Private comments
 Send me a private message:  
-👉 https://github.com/alptemiz/blog_spamlist/discussions/new?category=contact-maintainers
+https://github.com/alptemiz/blog_spamlist/discussions/new?category=contact-maintainers
 
 ## List of domains
 

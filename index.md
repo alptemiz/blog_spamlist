@@ -40,6 +40,16 @@ I’ve curated a personal domain blacklist of the worst offenders. Copy-pasting 
 
 Happy blocking!
 
+### Public comments
+You can leave a public comment here:  
+👉 https://github.com/alptemiz/blog_spamlist/issues/new
+
+### Private comments
+Send me a private message:  
+👉 https://github.com/alptemiz/blog_spamlist/discussions/new?category=contact-maintainers
+
+## List of domains
+
     1911ultratool.com
     1980editions.com
     2025worldgeneconvention.com

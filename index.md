@@ -40,15 +40,15 @@ I’ve curated a personal domain blacklist of the worst offenders. Copy-pasting 
 
 Happy blocking!
 
+## Feedback
+
 ### Public comments
 You can leave a public comment here:  
-[Public comment](https://github.com/alptemiz/blog_spamlist/issues/new)
-
+[Open an issue](https://github.com/alptemiz/blog_spamlist/issues/new)
 
 ### Private comments
 Send me a private message:  
-[Private comment](https://github.com/alptemiz/blog_spamlist/discussions/new?category=contact-maintainers)
-
+[Contact maintainers](https://github.com/alptemiz/blog_spamlist/discussions/new?category=contact-maintainers)
 
 ## List of domains
 
